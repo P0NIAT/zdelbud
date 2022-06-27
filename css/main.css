@@ -111,7 +111,6 @@ html {
 
 body {
   position: relative;
-  font-family: 'Montserrat', sans-serif;
   background-color: #ebecf2;
 }
 
@@ -179,7 +178,7 @@ header p {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url("../img/relaxing-1979674_640.jpg");
+  background-image: url("../img/porch-1967855_640.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
